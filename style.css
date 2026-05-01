@@ -1,2 +1,11 @@
-body { font-family: Arial; text-align: center; background: #fafafa; }
-header { padding: 50px; background: #2c3e50; color: white; }
+body { 
+    font-family: Arial; 
+    text-align: center; 
+    background: #eaf4f4; 
+}
+
+header { 
+    padding: 50px; 
+    background: #0077b6; 
+    color: white; 
+}
